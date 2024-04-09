@@ -1,4 +1,4 @@
-git status
+git status -> Prints the status of the Git repository
 gut init
 git config --global user.name "Let's Kode It"
 git config --global user.email letskodeit@gmail.com
