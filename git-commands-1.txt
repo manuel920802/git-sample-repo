@@ -12,3 +12,68 @@ git diff <filename>                                 -> Check changes made to fil
 git remote add origin <GitHub Repository URL>       -> Establish connection to remote Github repo
 git push origin main                                -> Push to master branch
 -----------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		PrivateBranch1-------------------
+		|			        |
+		|				|
+		|				|
+--------------Master----------Release------Master---------Master------Release------------Master------
+		|					       |
+		|					       |Pull and then merge
+		|					       |
+		PrivateBranch2---------------------------------
